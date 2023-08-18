@@ -208,6 +208,10 @@ a {
 }
 
 @media (max-width: 720px) {
+  .header-wrapper {
+    margin-top: -3%;
+  }
+
   .header {
     width: 100%;
     height: 5%;
