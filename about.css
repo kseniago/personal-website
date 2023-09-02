@@ -146,8 +146,6 @@ a {
 
 @media (max-width: 620px) {
   .header-wrapper {
-    display: flex;
-    justify-content: center;
     margin-bottom: 3rem;
   }
 
