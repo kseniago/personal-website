@@ -210,7 +210,7 @@ a {
 
 @media (min-width: 821px) and (max-width: 920px) {
   .header {
-    margin-top: -3;
+    margin-top: -3%;
     width: 60%;
     height: 5%;
   }
@@ -255,6 +255,7 @@ a {
   .header {
     width: 70%;
     height: 5%;
+    margin-top: -3%;
   }
 
   .header a {
@@ -318,9 +319,9 @@ a {
 
 @media (min-width: 481px) and (max-width: 620px) {
   .header {
-    width: 70%;
+    width: 90%;
     height: 5%;
-    margin-top: -3;
+    margin-top: -3%;
   }
 
   .header a {
@@ -384,9 +385,9 @@ a {
 
 @media (min-width: 321px) and (max-width: 480px) {
   .header {
-    width: 60%;
+    width: 90%;
     height: 5%;
-    margin-top: -3;
+    margin-top: -3%;
   }
 
   .header a {
@@ -478,7 +479,7 @@ a {
 
 @media (max-width: 320px) {
   .header {
-    margin-top: -3;
+    margin-top: -3%;
     width: 90%;
     height: 5%;
     border-radius: 5px;
