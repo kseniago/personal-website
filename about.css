@@ -134,7 +134,7 @@ a {
   .header {
     width: 70%;
     height: 5%;
-    margin-top: -3%;
+    margin-top: -10%;
   }
 
   .about-me img {
@@ -154,7 +154,7 @@ a {
     width: 90%;
     height: 5%;
     border-radius: 5px;
-    margin-top: -3%;
+    margin-top: -10%;
   }
 
   .header a {
